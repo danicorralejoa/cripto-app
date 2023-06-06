@@ -1,9 +1,9 @@
 const ErrorPage = () => {
     return (
         <div>
-            <h1> Algo falló!</h1>
+            <h1> Something's wrong!</h1>
             <p>
-                La página que buscas no existe
+                The page you are looking for does not exist
             </p>
         </div>
     )
